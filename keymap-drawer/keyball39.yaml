@@ -39,7 +39,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', h: QWRT}
-  - $$mdi:apple-keyboard-shift$$
+  - {t: Gaming, h: toggle}
   Sectra:
   - H
   - F
