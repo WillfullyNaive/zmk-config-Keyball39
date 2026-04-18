@@ -51,7 +51,7 @@ layers:
   - I
   - O
   - P
-  - A
+  - $$mdi:backspace-reverse-outline$$
   - D
   - KP 7
   - KP 5
@@ -85,7 +85,7 @@ layers:
   - '2'
   - '3'
   - '4'
-  - Z
+  - '5'
   - '6'
   - '7'
   - '8'
