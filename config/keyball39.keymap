@@ -76,7 +76,7 @@
             label = "Sectra";
             bindings = <
 &kp H           &kp F           &kp Y                &kp SPACE        &kp Z                                  &kp Y            &kp U  &kp I      &kp O    &kp P
-&kp A           &kp D           &kp KP_NUMBER_7      &kp KP_NUMBER_5  &kp KP_NUMBER_6                        &kp H            &kp J  &kp K      &kp L    &kp SEMI
+&kp DELETE      &kp D           &kp KP_NUMBER_7      &kp KP_NUMBER_5  &kp KP_NUMBER_6                        &kp H            &kp J  &kp K      &kp L    &kp SEMI
 &kp LEFT_SHIFT  &kp X           &kp RS(KP_NUMBER_8)  &kp KP_NUMBER_1  &kp KP_NUMBER_2                        &kp N            &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp UP_ARROW    &kp DOWN_ARROW  &to 0                &mkp LCLK        &mkp MCLK        &mkp RCLK  &kp ENTER  &lt 0 BACKSPACE                             &kp RSHFT
             >;
@@ -85,7 +85,7 @@
         NUM {
             label = "NUM";
             bindings = <
-&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp Z                               &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0
+&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5                        &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0
 &kp LEFT      &kp DOWN      &kp UP_ARROW  &kp RIGHT     &kp KP_NUMBER_8                     &none         &none         &none         &none         &none
 &none         &none         &none         &none         &none                               &none         &none         &trans        &trans        &none
 &trans        &trans        &to 0         &mkp LCLK     &mkp MCLK        &mkp RCLK  &trans  &trans                                                  &trans
