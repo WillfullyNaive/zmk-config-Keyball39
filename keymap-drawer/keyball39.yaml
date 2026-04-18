@@ -63,7 +63,7 @@ layers:
   - {t: ;, s: ':'}
   - $$mdi:apple-keyboard-shift$$
   - X
-  - Sft+KP 8
+  - KP 8
   - KP 1
   - KP 2
   - N
